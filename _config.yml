@@ -34,7 +34,7 @@ author: NSTPSLIS-Group-10
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: The Rainbow Library Ph (Part 1) - Sheet1 
+metadata: rainbow
 
 ##########
 # Site/Organization Branding 
